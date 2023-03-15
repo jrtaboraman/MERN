@@ -4,9 +4,8 @@ const Navbar = () => {
   return (
     <header>
       <div className="container">
-        Navbar
         <Link to="/">
-          <h1>Workout Buddy</h1>
+          <h1>Simple MERN workout App</h1>
         </Link>
       </div>
     </header>
